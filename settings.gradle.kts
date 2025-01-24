@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "myJetpackLessens"
 include(":app")
 include(":goodman")
+include(":textcollage")
