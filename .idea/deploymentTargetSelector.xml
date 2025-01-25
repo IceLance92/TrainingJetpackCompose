@@ -16,6 +16,42 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
+      <SelectionState runConfigName="goodman">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-01-24T13:38:42.222755600Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=fb5a3669" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="textcollage">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="MainActivity (1)">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-01-24T16:12:06.819082300Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=fb5a3669" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="visitka">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-01-25T00:20:20.296288200Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\Aleksandr\.android\avd\Medium_Phone_API_35.avd" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
