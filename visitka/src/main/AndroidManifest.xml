@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/gratis_png_playerunknown_s_battlegrounds_coche_simulador_racing_haz_x_motor_en_linea_fuera_de_carretera_mania_motocross_juego_de_carreras_android_thumbnail"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"

@@ -43,10 +43,10 @@
       </SelectionState>
       <SelectionState runConfigName="visitka">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-01-25T00:20:20.296288200Z">
+        <DropdownSelection timestamp="2025-01-25T00:26:29.576010500Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\Aleksandr\.android\avd\Medium_Phone_API_35.avd" />
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=fb5a3669" />
             </handle>
           </Target>
         </DropdownSelection>
