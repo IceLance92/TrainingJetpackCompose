@@ -63,7 +63,7 @@ fun Greeting() {
             Text(
                 text = "Android Developer",
                 modifier = Modifier
-                    .background(color = Color(0xD23B851D))
+                   // .background(color = Color(0xD23B851D))
                     .padding(10.dp)
                     .align(alignment = Alignment.CenterHorizontally),
                 fontWeight = FontWeight.Bold
@@ -71,7 +71,7 @@ fun Greeting() {
             Text(
                 text = "Партин Александр Олегович",
                 modifier = Modifier
-                    .background(color = Color(0xD23B851D))
+                  //  .background(color = Color(0xD23B851D))
                     .padding(5.dp)
                     .align(alignment = Alignment.CenterHorizontally),
                 textAlign = TextAlign.Justify
@@ -89,7 +89,7 @@ fun Greeting() {
                     text = "+79379754174",
                     fontSize = 20.sp,
                     modifier = Modifier
-                        .padding(16.dp)
+                        .padding(1.dp)
                 )
             }
             Row {
@@ -99,7 +99,7 @@ fun Greeting() {
                     text = "@azeroth992",
                     fontSize = 20.sp,
                     modifier = Modifier
-                        .padding(16.dp)
+                        .padding(1.dp)
                 )
             }
             Row {
@@ -109,7 +109,7 @@ fun Greeting() {
                     text = "mograin_92@mail.ru",
                     fontSize = 20.sp,
                     modifier = Modifier
-                        .padding(16.dp)
+                        .padding(1.dp)
                 )
             }
         }
